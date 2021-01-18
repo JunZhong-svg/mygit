@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db69c18e-e0a1-4858-a3d1-eeea4c331e36" name="默认" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../airtest_runner-master\exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="ad00bf92-464e-422d-9880-014f7051302e" />
+  <component name="ProjectId" id="1fwIN0iEjb6nFwKN4Kanfk514ZF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/Python/模拟QQ聊天.py" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.getIp">
+    <configuration name="HTMLTestRunner" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="airtest_runner-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="C:/Python37/Lib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:/Python37/Lib/HTMLTestRunner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="模拟QQ" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="airtest_runner-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="D:/Python" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:/Python/模拟QQ.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="模拟QQ聊天" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="airtest_runner-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="D:/Python" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:/Python/模拟QQ聊天.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="模拟QQ聊天" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="airtest_runner-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="D:/Python" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:/Python/模拟QQ聊天.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="getIp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="airtest_runner-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="D:/Python" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:/Python/getIp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_suite" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="airtest_runner-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="D:/Python/uniitest" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:/Python/uniitest/run_suite.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.getIp" />
+        <item itemvalue="Python.模拟QQ" />
+        <item itemvalue="Python.run_suite" />
+        <item itemvalue="Python.HTMLTestRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db69c18e-e0a1-4858-a3d1-eeea4c331e36" name="默认" comment="" />
+      <created>1597122684151</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597122684151</updated>
+      <workItem from="1597746820972" duration="339000" />
+      <workItem from="1597747200000" duration="29000" />
+      <workItem from="1598177387414" duration="113000" />
+      <workItem from="1598177852893" duration="1636000" />
+      <workItem from="1598186836467" duration="27000" />
+      <workItem from="1598187698699" duration="867000" />
+      <workItem from="1598188778172" duration="627000" />
+      <workItem from="1598190302128" duration="666000" />
+      <workItem from="1598191319559" duration="1910000" />
+      <workItem from="1598229333239" duration="2897000" />
+      <workItem from="1598409778414" duration="50000" />
+      <workItem from="1598586313844" duration="4234000" />
+      <workItem from="1598601821390" duration="111000" />
+      <workItem from="1598604168510" duration="4197000" />
+      <workItem from="1598697072153" duration="4750000" />
+      <workItem from="1598752826835" duration="11547000" />
+      <workItem from="1598835480587" duration="10703000" />
+      <workItem from="1598848152435" duration="1105000" />
+      <workItem from="1598862208936" duration="5635000" />
+      <workItem from="1598922594436" duration="1347000" />
+      <workItem from="1599042957249" duration="18000" />
+      <workItem from="1599093799637" duration="7000" />
+      <workItem from="1599441387513" duration="1156000" />
+      <workItem from="1599453555254" duration="1745000" />
+      <workItem from="1599455445115" duration="282000" />
+      <workItem from="1599474711163" duration="1592000" />
+      <workItem from="1599476332285" duration="80000" />
+      <workItem from="1599484675747" duration="1798000" />
+      <workItem from="1599528990818" duration="2552000" />
+      <workItem from="1599562168700" duration="1186000" />
+      <workItem from="1599623304006" duration="689000" />
+      <workItem from="1599708829363" duration="2066000" />
+      <workItem from="1599721076932" duration="835000" />
+      <workItem from="1599733246374" duration="309000" />
+      <workItem from="1599733716853" duration="216000" />
+      <workItem from="1599790401650" duration="2874000" />
+      <workItem from="1599810370123" duration="4601000" />
+      <workItem from="1599973258185" duration="11005000" />
+      <workItem from="1600045984005" duration="1260000" />
+      <workItem from="1600047489617" duration="9329000" />
+      <workItem from="1600132559719" duration="1310000" />
+      <workItem from="1600141443190" duration="41000" />
+      <workItem from="1600245997610" duration="21000" />
+      <workItem from="1600427643104" duration="1792000" />
+      <workItem from="1600429587745" duration="929000" />
+      <workItem from="1610698098897" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="479" y="148" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599980666640">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="479" y="148" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.689@0.0.1280.689" timestamp="1599980666640" />
+    <state x="421" y="100" key="FileChooserDialogImpl" timestamp="1600427672449">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="421" y="100" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1600427672449" />
+    <state width="1237" height="210" key="GridCell.Tab.0.bottom" timestamp="1600430027894">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="210" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1600430027894" />
+    <state width="1237" height="210" key="GridCell.Tab.0.center" timestamp="1600430027894">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="210" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1600430027894" />
+    <state width="1237" height="210" key="GridCell.Tab.0.left" timestamp="1600430027894">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="210" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1600430027894" />
+    <state width="1237" height="210" key="GridCell.Tab.0.right" timestamp="1600430027894">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="210" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1600430027894" />
+    <state width="1237" height="166" key="GridCell.Tab.1.bottom" timestamp="1599454853633">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="166" key="GridCell.Tab.1.bottom/0.0.1280.689@0.0.1280.689" timestamp="1599454853633" />
+    <state width="1237" height="166" key="GridCell.Tab.1.center" timestamp="1599454853633">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="166" key="GridCell.Tab.1.center/0.0.1280.689@0.0.1280.689" timestamp="1599454853633" />
+    <state width="1237" height="166" key="GridCell.Tab.1.left" timestamp="1599454853633">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="166" key="GridCell.Tab.1.left/0.0.1280.689@0.0.1280.689" timestamp="1599454853633" />
+    <state width="1237" height="166" key="GridCell.Tab.1.right" timestamp="1599454853633">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="166" key="GridCell.Tab.1.right/0.0.1280.689@0.0.1280.689" timestamp="1599454853633" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1599981569508">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1599981569508" />
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup" timestamp="1598867214324">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup/0.0.1280.689@0.0.1280.689" timestamp="1598867214324" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/airtest_runner_master$run_suite.coverage" NAME="run_suite Coverage Results" MODIFIED="1600075195111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Python/uniitest" />
+    <SUITE FILE_PATH="coverage/airtest_runner_master$test_01.coverage" NAME="test_01 Coverage Results" MODIFIED="1600073616095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Python/uniitest" />
+    <SUITE FILE_PATH="coverage/airtest_runner_master$main.coverage" NAME="main Coverage Results" MODIFIED="1598843631770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/airtest_runner_master$102.coverage" NAME="102 Coverage Results" MODIFIED="1600067513987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Python" />
+    <SUITE FILE_PATH="coverage/airtest_runner_master$Process.coverage" NAME="继承Process类 Coverage Results" MODIFIED="1598836424478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Python" />
+    <SUITE FILE_PATH="coverage/airtest_runner_master$_fork.coverage" NAME="进程创建-fork（） Coverage Results" MODIFIED="1598706465819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Python" />
+    <SUITE FILE_PATH="coverage/airtest_runner_master$getIP.coverage" NAME="getIP Coverage Results" MODIFIED="1599441629420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Python" />
+    <SUITE FILE_PATH="coverage/airtest_runner_master$qt_test.coverage" NAME="qt_test Coverage Results" MODIFIED="1599819686787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/airtest_runner_master$unittest_case.coverage" NAME="unittest_case Coverage Results" MODIFIED="1599974703753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Python/uniitest" />
+    <SUITE FILE_PATH="coverage/airtest_runner_master$HTMLTestRunner.coverage" NAME="HTMLTestRunner Coverage Results" MODIFIED="1600074993903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Python37/Lib" />
+    <SUITE FILE_PATH="coverage/airtest_runner_master$video.coverage" NAME="video Coverage Results" MODIFIED="1599562645042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/airtest_runner_master$101.coverage" NAME="101 Coverage Results" MODIFIED="1600067528200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Python" />
+    <SUITE FILE_PATH="coverage/airtest_runner_master$.coverage" NAME="多进程 Coverage Results" MODIFIED="1599791109346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Python" />
+    <SUITE FILE_PATH="coverage/airtest_runner_master$handle.coverage" NAME="handle Coverage Results" MODIFIED="1598848263233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/airtest_runner_master$threading.coverage" NAME="使用threading创建线程 Coverage Results" MODIFIED="1598922957826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Python" />
+    <SUITE FILE_PATH="coverage/airtest_runner_master$QQ.coverage" NAME="模拟QQ聊天 Coverage Results" MODIFIED="1600429606335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Python" />
+    <SUITE FILE_PATH="coverage/airtest_runner_master$QQ__1_.coverage" NAME="模拟QQ聊天 (1) Coverage Results" MODIFIED="1599485211848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Python" />
+    <SUITE FILE_PATH="coverage/airtest_runner_master$getIp.coverage" NAME="getIp Coverage Results" MODIFIED="1600428982367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Python" />
+    <SUITE FILE_PATH="coverage/airtest_runner_master$wx_App.coverage" NAME="创建一个wx.App的子类 Coverage Results" MODIFIED="1599562798417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Python" />
+    <SUITE FILE_PATH="coverage/airtest_runner_master$Thread.coverage" NAME="使用Thread子类创建线程 Coverage Results" MODIFIED="1598864717185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Python" />
+  </component>
+</project>
